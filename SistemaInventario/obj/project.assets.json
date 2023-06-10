@@ -1526,6 +1526,47 @@
             "rid": "win"
           }
         }
+      },
+      "SistemaInventario.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "7.0.5",
+          "Microsoft.EntityFrameworkCore": "7.0.5",
+          "Microsoft.EntityFrameworkCore.Relational": "7.0.5",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.5",
+          "SistemaInventario.Model": "1.0.0",
+          "SistemaInventario.Utils": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SistemaInventario.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SistemaInventario.Data.dll": {}
+        }
+      },
+      "SistemaInventario.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "SistemaInventario.Utils": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SistemaInventario.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SistemaInventario.Model.dll": {}
+        }
+      },
+      "SistemaInventario.Utils/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/SistemaInventario.Utils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SistemaInventario.Utils.dll": {}
+        }
       }
     }
   },
@@ -4461,6 +4502,21 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "SistemaInventario.Data/1.0.0": {
+      "type": "project",
+      "path": "../SistemaInventario.Data/SistemaInventario.Data.csproj",
+      "msbuildProject": "../SistemaInventario.Data/SistemaInventario.Data.csproj"
+    },
+    "SistemaInventario.Model/1.0.0": {
+      "type": "project",
+      "path": "../SistemaInventario.Model/SistemaInventario.Model.csproj",
+      "msbuildProject": "../SistemaInventario.Model/SistemaInventario.Model.csproj"
+    },
+    "SistemaInventario.Utils/1.0.0": {
+      "type": "project",
+      "path": "../SistemaInventario.Utils/SistemaInventario.Utils.csproj",
+      "msbuildProject": "../SistemaInventario.Utils/SistemaInventario.Utils.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4470,7 +4526,10 @@
       "Microsoft.AspNetCore.Identity.UI >= 7.0.5",
       "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation >= 7.0.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.5",
-      "Microsoft.EntityFrameworkCore.Tools >= 7.0.5"
+      "Microsoft.EntityFrameworkCore.Tools >= 7.0.5",
+      "SistemaInventario.Data >= 1.0.0",
+      "SistemaInventario.Model >= 1.0.0",
+      "SistemaInventario.Utils >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4506,7 +4565,17 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\raulb\\OneDrive\\CursoASPC7_inventario\\SistemaInventario\\SistemaInventario.Data\\SistemaInventario.Data.csproj": {
+              "projectPath": "C:\\Users\\raulb\\OneDrive\\CursoASPC7_inventario\\SistemaInventario\\SistemaInventario.Data\\SistemaInventario.Data.csproj"
+            },
+            "C:\\Users\\raulb\\OneDrive\\CursoASPC7_inventario\\SistemaInventario\\SistemaInventario.Model\\SistemaInventario.Model.csproj": {
+              "projectPath": "C:\\Users\\raulb\\OneDrive\\CursoASPC7_inventario\\SistemaInventario\\SistemaInventario.Model\\SistemaInventario.Model.csproj"
+            },
+            "C:\\Users\\raulb\\OneDrive\\CursoASPC7_inventario\\SistemaInventario\\SistemaInventario.Utils\\SistemaInventario.Utils.csproj": {
+              "projectPath": "C:\\Users\\raulb\\OneDrive\\CursoASPC7_inventario\\SistemaInventario\\SistemaInventario.Utils\\SistemaInventario.Utils.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,0 +1,15 @@
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Model\bin\Debug\net7.0\SistemaInventario.Model.deps.json
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Model\bin\Debug\net7.0\SistemaInventario.Model.dll
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Model\bin\Debug\net7.0\SistemaInventario.Model.pdb
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Model\bin\Debug\net7.0\SistemaInventario.Utils.dll
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Model\bin\Debug\net7.0\SistemaInventario.Utils.pdb
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Model\obj\Debug\net7.0\SistemaInventario.Model.csproj.AssemblyReference.cache
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Model\obj\Debug\net7.0\SistemaInventario.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Model\obj\Debug\net7.0\SistemaInventario.Model.AssemblyInfoInputs.cache
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Model\obj\Debug\net7.0\SistemaInventario.Model.AssemblyInfo.cs
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Model\obj\Debug\net7.0\SistemaInventario.Model.csproj.CoreCompileInputs.cache
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Model\obj\Debug\net7.0\SistemaInventario.Model.csproj.CopyComplete
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Model\obj\Debug\net7.0\SistemaInventario.Model.dll
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Model\obj\Debug\net7.0\refint\SistemaInventario.Model.dll
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Model\obj\Debug\net7.0\SistemaInventario.Model.pdb
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Model\obj\Debug\net7.0\ref\SistemaInventario.Model.dll

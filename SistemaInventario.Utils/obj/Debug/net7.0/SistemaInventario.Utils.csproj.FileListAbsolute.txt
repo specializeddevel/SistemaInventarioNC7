@@ -1,0 +1,12 @@
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Utils\bin\Debug\net7.0\SistemaInventario.Utils.deps.json
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Utils\bin\Debug\net7.0\SistemaInventario.Utils.dll
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Utils\bin\Debug\net7.0\SistemaInventario.Utils.pdb
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Utils\obj\Debug\net7.0\SistemaInventario.Utils.csproj.AssemblyReference.cache
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Utils\obj\Debug\net7.0\SistemaInventario.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Utils\obj\Debug\net7.0\SistemaInventario.Utils.AssemblyInfoInputs.cache
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Utils\obj\Debug\net7.0\SistemaInventario.Utils.AssemblyInfo.cs
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Utils\obj\Debug\net7.0\SistemaInventario.Utils.csproj.CoreCompileInputs.cache
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Utils\obj\Debug\net7.0\SistemaInventario.Utils.dll
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Utils\obj\Debug\net7.0\refint\SistemaInventario.Utils.dll
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Utils\obj\Debug\net7.0\SistemaInventario.Utils.pdb
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Utils\obj\Debug\net7.0\ref\SistemaInventario.Utils.dll

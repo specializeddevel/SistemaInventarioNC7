@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SistemaInventario.Models;
+using SistemaInventario.Model.ViewModels;
 using System.Diagnostics;
 
 namespace SistemaInventario.Controllers
