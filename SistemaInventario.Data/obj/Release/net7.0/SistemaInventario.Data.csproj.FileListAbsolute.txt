@@ -1,0 +1,17 @@
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Data\bin\Release\net7.0\SistemaInventario.Data.deps.json
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Data\bin\Release\net7.0\SistemaInventario.Data.dll
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Data\bin\Release\net7.0\SistemaInventario.Data.pdb
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Data\bin\Release\net7.0\SistemaInventario.Model.dll
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Data\bin\Release\net7.0\SistemaInventario.Utils.dll
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Data\bin\Release\net7.0\SistemaInventario.Model.pdb
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Data\bin\Release\net7.0\SistemaInventario.Utils.pdb
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Data\obj\Release\net7.0\SistemaInventario.Data.csproj.AssemblyReference.cache
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Data\obj\Release\net7.0\SistemaInventario.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Data\obj\Release\net7.0\SistemaInventario.Data.AssemblyInfoInputs.cache
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Data\obj\Release\net7.0\SistemaInventario.Data.AssemblyInfo.cs
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Data\obj\Release\net7.0\SistemaInventario.Data.csproj.CoreCompileInputs.cache
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Data\obj\Release\net7.0\SistemaInventario.Data.csproj.CopyComplete
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Data\obj\Release\net7.0\SistemaInventario.Data.dll
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Data\obj\Release\net7.0\refint\SistemaInventario.Data.dll
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Data\obj\Release\net7.0\SistemaInventario.Data.pdb
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario.Data\obj\Release\net7.0\ref\SistemaInventario.Data.dll
