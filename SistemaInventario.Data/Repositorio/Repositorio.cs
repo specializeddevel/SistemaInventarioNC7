@@ -22,26 +22,27 @@ namespace SistemaInventario.Data.Repositorio
             this.dbSet = _db.Set<T>();
         }
 
-        public async Task Add(T entidad)
+        public async Task Adicionar(T entidad)
         {
             await dbSet.AddAsync(entidad);
         }
 
-        public async Task<T> Get(int id)
+        public async Task<T> Obtener(int id)
         {
             return await dbSet.FindAsync(id);
         }
 
-        public async Task<IEnumerable<T>> GetAll(Expression<Func<T, bool>> filtro = null, Func<IQueryable<T>, IOrderedQueryable<T>> orderBy = null, string includeProperties = null, bool isTracking = true)
+        public async Task<IEnumerable<T>> ObtenerTodos(Expression<Func<T, bool>> filtro = null,
+            Func<IQueryable<T>, IOrderedQueryable<T>> orderBy = null, string incluirPropiedades = null, bool isTracking = true)
         {
             IQueryable<T> query = dbSet;
             if( filtro != null )
             {
                 query = query.Where( filtro );  //Select * from where filtro
             }
-            if(includeProperties != null)
+            if(incluirPropiedades != null)
             {
-                foreach (var incluirProp in includeProperties.Split(new char[] {','}, StringSplitOptions.RemoveEmptyEntries))
+                foreach (var incluirProp in incluirPropiedades.Split(new char[] {','}, StringSplitOptions.RemoveEmptyEntries))
                 {
                     query = query.Include(incluirProp);  //ejemplo incluir: categoria, marca
                 }
@@ -57,7 +58,7 @@ namespace SistemaInventario.Data.Repositorio
             return query;
         }
 
-        public async Task<T> GetFirst(Expression<Func<T, bool>> filtro = null, string includeProperties = null, bool isTracking = true)
+        public async Task<T> ObtenerPrimero(Expression<Func<T, bool>> filtro = null, string includeProperties = null, bool isTracking = true)
         {
             IQueryable<T> query = dbSet;
             if (filtro != null)
@@ -83,12 +84,12 @@ namespace SistemaInventario.Data.Repositorio
             throw new NotImplementedException();
         }
 
-        public void Delete(T entidad)
+        public void Eliminar(T entidad)
         {
             dbSet.Remove(entidad);
         }
 
-        public void DeleteRange(IEnumerable<T> entidad)
+        public void EliminarRango(IEnumerable<T> entidad)
         {
             dbSet.RemoveRange(entidad);
         }

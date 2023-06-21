@@ -10,7 +10,7 @@ namespace SistemaInventario.Data.Repositorio.IRepositorio
     public interface IBodegaRepositorio : IRepositorio<Bodega>
     {
 
-        void Update(Bodega bodega);
+        void Actualizar(Bodega bodega);
 
     }
 }

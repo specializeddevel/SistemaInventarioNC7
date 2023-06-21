@@ -18,6 +18,7 @@ namespace SistemaInventario.Data.Repositorio
         public UnidadTrabajo(ApplicationDbContext db)
         {
             _db = db;
+            Bodega = new BodegaRepositorio(_db);
         }       
 
         public void Dispose()

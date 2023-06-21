@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3MvS5vAYbw4z6fD6z2SGwY8dAYRXKGEhxh0dSyN6Zk4=",
+  "Hash": "dE0+I7z2o+4iinVYagTnl8cCFZIvNsg7iJihEHFjgXs=",
   "Source": "SistemaInventario",
   "BasePath": "_content/SistemaInventario",
   "Mode": "Default",
@@ -1103,6 +1103,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\raulb\\OneDrive\\CursoASPC7_inventario\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\bodega.js",
+      "SourceId": "SistemaInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raulb\\OneDrive\\CursoASPC7_inventario\\SistemaInventario\\SistemaInventario\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario",
+      "RelativePath": "js/bodega.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\bodega.js"
     },
     {
       "Identity": "C:\\Users\\raulb\\OneDrive\\CursoASPC7_inventario\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",

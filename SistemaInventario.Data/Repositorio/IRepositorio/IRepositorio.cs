@@ -9,24 +9,24 @@ namespace SistemaInventario.Data.Repositorio.IRepositorio
 {
     public interface IRepositorio<T> where T : class
     {
-        Task<T> Get(int id);
+        Task<T> Obtener(int id);
 
-        Task<IEnumerable<T>> GetAll(
+        Task<IEnumerable<T>> ObtenerTodos(
             Expression<Func<T, bool>> filtro = null,
             Func<IQueryable<T>, IOrderedQueryable<T>> orderBy = null,
             string includeProperties = null,
             bool isTracking = true
         );
 
-        Task<T> GetFirst(
+        Task<T> ObtenerPrimero(
             Expression<Func<T, bool>> filtro = null,
             string includeProperties = null,
             bool isTracking = true
         );
 
-        Task Add( T entidad );        
-        void Delete( T entidad );
-        void DeleteRange(IEnumerable<T> entidad );
+        Task Adicionar( T entidad );        
+        void Eliminar( T entidad );
+        void EliminarRango(IEnumerable<T> entidad );
 
     }
 }

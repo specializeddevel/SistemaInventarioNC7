@@ -20,3 +20,16 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.headerPagina {
+
+    display: flex;
+    /*Ordena el header,
+        usando Flexbox para colocar espacio entre los hijos y centrarlos verticalmente. Luego,
+        fija el header en la parte superior de la ventana gráfica.*/
+
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}

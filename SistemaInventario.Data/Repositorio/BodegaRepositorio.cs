@@ -18,7 +18,7 @@ namespace SistemaInventario.Data.Repositorio
             _db = db;
         }
 
-        public void Update(Bodega bodega)
+        public void Actualizar(Bodega bodega)
         {
             //captura el registro a actualizar
             var bodegaBD = _db.Bodegas.FirstOrDefault(b => b.Id == bodega.Id);
@@ -27,7 +27,8 @@ namespace SistemaInventario.Data.Repositorio
                 bodegaBD.Nombre = bodega.Nombre;
                 bodegaBD.Descripcion = bodega.Descripcion;
                 bodegaBD.Estado = bodega.Estado;
-                _db.SaveChanges(); 
+                _db.SaveChanges();
+            }
         }
     }
 }
