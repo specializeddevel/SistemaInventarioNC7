@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "c4ZQpXO4qs9OmQEZdIpbTK7+5epH7r2zfgTJx3jvZ/E=",
+  "Hash": "fbfOq6zM+QJVgxfgSnh3ABcg78xV9sOKXqLYbLhHN+c=",
   "Source": "SistemaInventario",
   "BasePath": "_content/SistemaInventario",
   "Mode": "Default",
@@ -1137,6 +1137,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\categoria.js"
+    },
+    {
+      "Identity": "C:\\Users\\raulb\\OneDrive\\CursoASPC7_inventario\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\marca.js",
+      "SourceId": "SistemaInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raulb\\OneDrive\\CursoASPC7_inventario\\SistemaInventario\\SistemaInventario\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario",
+      "RelativePath": "js/marca.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\marca.js"
     },
     {
       "Identity": "C:\\Users\\raulb\\OneDrive\\CursoASPC7_inventario\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",
