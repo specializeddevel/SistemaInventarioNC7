@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- <h1 class="text-capitalize text-center">Listado general de bodegas</h1> -->
+<div class="headerPagina">    
+        <h2 class="text-primary">Listado de Categorias</h2>  
+        <a class="btn btn-outline-primary" asp-action="Upsert"> <i class="bi bi-plus-square"></i> Crear Nueva Categoría</a>
+   
+</div>
+
+<br />
+
+<div class="p-4 border rounded bg-light">
+    <table class="table table-responsive table-hover" id="tblDatos">
+        <thead class="table-dark">
+            <tr>
+                <th>Nombre</th>
+                <th>Descripción</th>
+                <th>Estado</th>
+                <th></th>
+            </tr>
+        </thead>
+    </table>
+</div>
+
+@section Scripts {
+    <script src="~/js/categoria.js"></script>
+}
+
+

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dE0+I7z2o+4iinVYagTnl8cCFZIvNsg7iJihEHFjgXs=",
+  "Hash": "c4ZQpXO4qs9OmQEZdIpbTK7+5epH7r2zfgTJx3jvZ/E=",
   "Source": "SistemaInventario",
   "BasePath": "_content/SistemaInventario",
   "Mode": "Default",
@@ -1120,6 +1120,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\bodega.js"
+    },
+    {
+      "Identity": "C:\\Users\\raulb\\OneDrive\\CursoASPC7_inventario\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\categoria.js",
+      "SourceId": "SistemaInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raulb\\OneDrive\\CursoASPC7_inventario\\SistemaInventario\\SistemaInventario\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario",
+      "RelativePath": "js/categoria.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\categoria.js"
     },
     {
       "Identity": "C:\\Users\\raulb\\OneDrive\\CursoASPC7_inventario\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",
