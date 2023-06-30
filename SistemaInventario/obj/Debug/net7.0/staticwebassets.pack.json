@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\raulb\\OneDrive\\CursoASPC7_inventario\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\0f484304-d240-4d87-997c-e2dda7c172b2.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\0f484304-d240-4d87-997c-e2dda7c172b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raulb\\OneDrive\\CursoASPC7_inventario\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\551663c1-7779-4ccd-8793-783cedca1299.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\551663c1-7779-4ccd-8793-783cedca1299.jpg"
+    },
+    {
+      "Id": "C:\\Users\\raulb\\OneDrive\\CursoASPC7_inventario\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\e1de1a50-8fe4-47e6-a894-f95986572e6a.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\e1de1a50-8fe4-47e6-a894-f95986572e6a.jpg"
+    },
+    {
       "Id": "C:\\Users\\raulb\\OneDrive\\CursoASPC7_inventario\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\bodega.js",
       "PackagePath": "staticwebassets\\js\\bodega.js"
     },
@@ -23,6 +35,10 @@
     {
       "Id": "C:\\Users\\raulb\\OneDrive\\CursoASPC7_inventario\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\marca.js",
       "PackagePath": "staticwebassets\\js\\marca.js"
+    },
+    {
+      "Id": "C:\\Users\\raulb\\OneDrive\\CursoASPC7_inventario\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\producto.js",
+      "PackagePath": "staticwebassets\\js\\producto.js"
     },
     {
       "Id": "C:\\Users\\raulb\\OneDrive\\CursoASPC7_inventario\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",

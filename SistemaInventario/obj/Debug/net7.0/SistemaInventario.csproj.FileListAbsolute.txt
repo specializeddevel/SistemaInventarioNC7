@@ -565,3 +565,5 @@ C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventari
 C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
 C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
 C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\raulb\OneDrive\CursoASPC7_inventario\SistemaInventario\SistemaInventario\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
